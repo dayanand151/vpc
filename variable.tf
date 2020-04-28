@@ -12,5 +12,4 @@ variable "instance_ami" {}
 
 variable "instance_type" {}
 
-variable "environment_tag" {}
 
